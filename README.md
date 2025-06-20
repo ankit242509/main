@@ -46,7 +46,7 @@ job-application-tracker/
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/job-application-tracker.git
+git clone https://github.com/ankit242509/job-application-tracker.git
 cd job-application-tracker
 
 
